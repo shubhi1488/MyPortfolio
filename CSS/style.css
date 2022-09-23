@@ -55,3 +55,16 @@ button:hover{
     cursor: pointer;
     
 }
+.image img{
+    opacity: 0.5;
+
+    float: right;
+    margin-left: 40%;
+    margin-top: 90px;
+    margin-right: 90px;
+    border-radius: 50%;
+}
+.image img:hover{
+    opacity: 1;
+    
+}
